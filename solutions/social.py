@@ -48,6 +48,8 @@ if __name__ == "__main__":
 
     #
     # QUESTION A
+
+    print("Hello")
     #
     # "Print" the screen name of the user who authored the first tweet (i.e. "sandwhoa"):
 
